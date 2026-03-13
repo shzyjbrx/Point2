@@ -137,3 +137,8 @@ wandb/
 # for Troika
 /save_models
 ignored_file.py
+
+logs/
+feature_cache/
+exp_img/
+probing_results/
